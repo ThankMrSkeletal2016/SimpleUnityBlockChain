@@ -6,6 +6,7 @@ using System.Security.Cryptography;
 public class Test : MonoBehaviour {
 
     Hash hash = new Hash();
+    Color color = new Color();
     public string[] genesisTransactions = { "String 1", "String 2" };
     public string[] block2Transations = { "String 3", "String 4" };
     public string[] block3Transations = { "String 5", "String 6" };

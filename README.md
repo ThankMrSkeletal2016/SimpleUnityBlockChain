@@ -1,7 +1,10 @@
 # SimpleUnityBlockChain
+## Version 0.2 
 1. Import Scripts Folder into Project
-2. Apply Test Script To Any Object
-3. Run the Game and See the Hashes in the Console.
+2. Apply TestWithInput Script To Any Object
+3. Press the Space Bar to create a new block on the chain
+4. Check the console to see the chain be formed.
 
-Currently, I only have 3 block that can be edited.
-Will be adding more functionality as I learn Unity.
+Includes Color Values.
+* Currently stores RGB values.
+* Values will be used in later versions.
